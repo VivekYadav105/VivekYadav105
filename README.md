@@ -55,7 +55,9 @@
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=VivekYadav105&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivekYadav105&layout=compact&hide=html&theme=radicall&bg_color=0D1117" alt="GitHub Stats" />
 </p>
+
 
 
 <p align="center">
@@ -78,7 +80,7 @@
 </p>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VivekYadav105&bg_color=053313&color=2ab259&line=4c9e56&point=238b28&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VivekYadav105&bg_color=053313&color=2ab259&line=4c9e56&point=238b28&area=true&hide_border=true" height=250/>
 </div>
 
 ---
