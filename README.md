@@ -27,15 +27,6 @@
 
 ---
 
-🛠️ **Tech Stack**
-
-- **Languages:** [Your Preferred Programming Languages]
-- **Frameworks:** [Any Frameworks You Specialize In]
-- **Tools:** [List of Tools You Regularly Use]
-- **Database:** [Your Database Choices]
-- **DevOps:** [Any DevOps Tools or Practices]
-
----
 ## 🛠️ Tech Stack
 
 <div align="center">
