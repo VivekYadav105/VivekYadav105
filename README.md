@@ -77,6 +77,9 @@
   <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/VivekYadav105/your-repo-name">
 </p>
 
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VivekYadav105&bg_color=053313&color=2ab259&line=4c9e56&point=238b28&area=true&hide_border=true"/>
+</div>
 
 ---
 
