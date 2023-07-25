@@ -89,10 +89,6 @@
 ## 📫 **Let's Connect!**
 <div align="center">
 
-<a href="https://example.com" style="background-color: #007BFF; color: #FFFFFF; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold;">
-    Click Me
-</a>
-
 [Portfolio](https://img.shields.io/badge/-Portfolio-blue?style=flat-square&logo=google-chrome&logoColor=white) 
 [Email](https://img.shields.io/badge/-Email-green?style=flat-square&logo=gmail&logoColor=white) 
 [LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white) 
