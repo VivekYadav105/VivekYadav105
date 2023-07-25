@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/coder/coder-original.svg" alt="Coder Logo" width="100" height="100">
+  <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" alt="Coder Logo">
 </p>
 
 <p align="center">
@@ -15,9 +15,9 @@
     <img src="https://img.shields.io/github/followers/VivekYadav105?label=Follow&style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
----
 
-👩‍💻 **About Me**
+
+### 👩‍💻 **About Me**
 
 - 🌱 I'm a passionate MERN Stack developer and tech enthusiast, always eager to learn and experiment with new technologies.
 - 🔭 Currently, I'm exploring Typescript and React-native, diving deep into exciting projects and challenges.
@@ -40,7 +40,8 @@
 |                                                 |                                           | <p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50"><br> Bootstrap</p>          |                                         |                                   |                                  |
 |                                                 |                                           |       |                                         |                                   |                                  |
 </div>
---
+
+
 ## 🌟 My Projects
 
 - 🚀 [adcomm](https://github.com/VivekYadav105/adcomm): A simulation of graphs and plots generated after modulation.
