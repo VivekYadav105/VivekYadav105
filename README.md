@@ -106,4 +106,6 @@ Because light attracts bugs! 🐛😄
 
 *Feel free to explore my projects and get in touch. Let's create something amazing together!* 😄🚀
 
-[![](https://visitcount.itsvg.in/api?id=VivekYadav105&label=Profile%20Views&color=8&icon=5&pretty=false)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=VivekYadav105&label=Profile%20Views&color=9&icon=3&pretty=true" />
+</a>
