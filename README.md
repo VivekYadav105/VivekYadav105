@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/vivek-yadav-58357b203/" style="text-decoration: none; margin: 8px;">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://github.com/VivekYadav105" style="text-decoration: none; margin: 8px;">
+  <a href="https://github.com/VivekYadav105" target="_blank" style="text-decoration: none; margin: 8px;">
     <img src="https://img.shields.io/github/followers/VivekYadav105?label=Follow&style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   
