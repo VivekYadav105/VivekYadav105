@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/github/followers/VivekYadav105?label=Follow&style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   
-  <a href="https://doc-08-34-prod-01-apps-viewer.googleusercontent.com/viewer2/prod-01/pdf/h1j1ecdill468m2qubdp7vaqah97glvc/rslq1grbrvpvj01ec34hp01nnstgvubs/1690311150000/3/114594072268223729560/APznzaZ0y394n0u_IbRkikesM7D5UcLu4nlbqBkn1E_MEpIeG7-g14VVNNZTJ9oBP4udxQhON2xNLx9-wRsgXD60r0XzaQsaGKODlJx4s3KugAnXn8PEjRptCQHfFH__vb6Rzr0TUTffsDhPE-n5GcU9hkzE22zIlnStl51bF4HKf8QMtOKRh6i40tH05DhpWXZbczThyt2Po6nrBevLh6QJnz1oIuBPJ4chqtziTSr7x8cS6Bf86Wii3RdQGgPRXSO1m-4w-vkrrMLKalFt_YKh-WxcRlpzJJSkmwkyiAYU2HzcdYEgajvMpIhuDEAZKN1rAZFV9YzG5E_TBcLshvzMbmhHXF8lFhqNxLwkIVduVoGQ7bYamLS17jW1wy9sJyOONqnTqgc2ce1h1L0dI_H6Ic7aVbZyUw==?authuser=1&nonce=t2kv88uelreou&user=114594072268223729560&hash=m01b8h1t6921nmg7r1s5b1kpetqi9adp" style="text-decoration: none; margin: 8px;">
+  <a href="https://drive.google.com/file/d/1KqHk1qt3I8-LpRRJ9trUdInyesKVSZsK/view?usp=sharing" style="text-decoration: none; margin: 8px;">
     <img src="https://img.shields.io/badge/Resume-Click%20Here-brightgreen?style=for-the-badge" alt="GitHub">
   </a>
 </p>
